@@ -4,7 +4,7 @@ import discord
 import asyncio
 import ctypes
 from discord.ext import commands
-TOKEN = 'Njk1MzkyNTQ4NzYzNTk4ODY4.XoZhTw.Sor6GTduurK6PXLMqLM6QfNj9-0'
+TOKEN = ''
 class MyClient(discord.Client):
     def commands_for_game():
         up = "Вверх"
